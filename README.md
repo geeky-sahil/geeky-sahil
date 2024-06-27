@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Hospital Management](https://github.com/geeky-sahil/HospitalCheck)
 
-- 🌱 I’m currently learning **DSA,AI**
+- 🌱 I’m currently learning **D.S.A,AI**
 
 - 👨‍💻 All of my projects are available at [geeky-sahil](geeky-sahil)
 
@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geeky-sahil&show_icons=true&locale=en" alt="geeky-sahil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-sahil&" alt="geeky-sahil" /></p>
+
