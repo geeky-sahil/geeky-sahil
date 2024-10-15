@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geeky-sahil&show_icons=true&locale=en" alt="geeky-sahil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-sahil&" alt="geeky-sahil" /></p>
+
+[![An image of @geekysahil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/geekysahil)](https://holopin.io/@geekysahil)
